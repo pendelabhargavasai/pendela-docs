@@ -1,0 +1,10 @@
+{
+    "globs": [
+        "docs/**/*.md"
+    ],
+    "ignores": [
+        "node_modules/**",
+        "docs/.vitepress/**",
+        "docs/_templates/**"
+    ]
+}
