@@ -8,5 +8,5 @@ Companion guides for videos — commands, configs, and links.
 
 ## All Articles
 
-- [FAQ](/articles/faq/)
+- [FAQ](/articles/faq)
 - [Termix](/articles/termix/)
