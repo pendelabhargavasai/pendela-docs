@@ -6,6 +6,10 @@ export default defineConfig({
   base: '/',
   cleanUrls: true,
 
+  head: [
+    ['link', { rel: 'icon', href: '/images/logos/logo.png' }]
+  ],
+
   // ✅ Don't treat docs/_templates as site pages
   srcExclude: ["**/_templates/**"],
 
