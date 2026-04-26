@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: "Pendela HomeLab Docs"
-  text: "This site contains notes, links, example files and referenced video links"
+  name: "Pendela HomeLab"
+  text: "This site contains notes, commands, instructions, configs, scripts, references and links."
   tagline: Work in progress, expect the layout to evolve over time.
   image:
     light: /images/logos/logo-3.jpg

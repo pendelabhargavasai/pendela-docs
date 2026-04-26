@@ -14,7 +14,7 @@ export default defineConfig({
   srcExclude: ["**/_templates/**"],
 
   themeConfig: {
-    siteTitle: "Pendela HomeLab Docs",
+    siteTitle: "Pendela HomeLab",
     logo: '/images/logos/logo-2.png', //{ light: '/images/logos/logo-3.jpg', dark: '/images/logos/logo-1.jpg' },
 
     nav: [
