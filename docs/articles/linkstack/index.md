@@ -2,7 +2,7 @@
 
 ## What this page contains
 
-Notes, commands, and downloadable example files used in the **LinkStack** installation instructions.
+Notes, commands, configs used for the **LinkStack** installation.
 
 ![LinkStack Screenshot](/images/linkstack/logo.png)
 
@@ -10,11 +10,10 @@ LinkStack is an open-source, self-hosted alternative to Linktree, allowing users
 
 ## Notes / Walkthrough
 
-### Step 1 — Docker Compose
+### Docker Compose
 
 Below is a basic docker-compose.yaml to bring LinkStack up.
 
----
 
 ## Configuration Example
 
@@ -40,7 +39,6 @@ volumes:
   linkstack:
 ```
 
----
 
 ## Commands
 
