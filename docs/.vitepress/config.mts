@@ -37,7 +37,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: 'Information, Commands, Configs, and Links.',
+      message: 'A smile is a curve that sets everything straight',
       copyright: '2026 © pendela.in'
     },
 
