@@ -1,7 +1,5 @@
 # LinkStack
 
----
-
 ## What this page contains
 
 Notes, commands, and downloadable example files used in the **LinkStack** installation instructions.
@@ -10,11 +8,7 @@ Notes, commands, and downloadable example files used in the **LinkStack** instal
 
 LinkStack is an open-source, self-hosted alternative to Linktree, allowing users to create a customizable profile page to share multiple links, hosted on their own server.
 
----
-
 ## Notes / Walkthrough
-
----
 
 ### Step 1 — Docker Compose
 
@@ -58,7 +52,10 @@ docker compose up -d
 
 ## Screenshots
 
+### Dashboard
 ![Dashboard](/images/linkstack/ss-1.png)
+
+### Preview screen
 ![Preview screen](/images/linkstack/ss-2.png)
 
 
