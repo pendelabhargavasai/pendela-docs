@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Pendela HomeLabs Docs',
+  title: 'Pendela HomeLab Docs',
   description: 'Official documentation for Pendela HomeLabs',
   base: '/',
   cleanUrls: true,
@@ -14,8 +14,8 @@ export default defineConfig({
   srcExclude: ["**/_templates/**"],
 
   themeConfig: {
-    siteTitle: "Pendela HomeLabs Docs",
-    logo: '/images/logos/logo.png',
+    siteTitle: "Pendela HomeLab Docs",
+    logo: '/images/logos/logo-1.jpg',
 
     nav: [
       { text: 'Home', link: '/' },
@@ -36,13 +36,9 @@ export default defineConfig({
       ]
     },
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/pendelabhargavasai/pendela-docs' }
-    ],
-
     footer: {
       message: 'Information, Commands, Configs, and Links.',
-      copyright: '© pendela.in'
+      copyright: '2026 © pendela.in'
     },
 
     outline: 'deep',

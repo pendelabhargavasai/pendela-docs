@@ -23,12 +23,16 @@
   --vp-c-warning-1: #38bdf8;
   --vp-c-warning-2: #7dd3fc;
   --vp-c-warning-3: #bae6fd;
-  
+
   /* Black Background with slight blue shade */
-  --vp-c-bg: #050508; /* Very deep black-blue */
-  --vp-c-bg-alt: #0a0e17; /* Slight blue tint for sidebars/cards */
-  --vp-c-bg-elv: #111827; /* Slightly lighter blue-gray for elevated elements */
-  --vp-c-bg-soft: #0f172a; /* Slate background */
+  --vp-c-bg: #050508;
+  /* Very deep black-blue */
+  --vp-c-bg-alt: #0a0e17;
+  /* Slight blue tint for sidebars/cards */
+  --vp-c-bg-elv: #111827;
+  /* Slightly lighter blue-gray for elevated elements */
+  --vp-c-bg-soft: #0f172a;
+  /* Slate background */
 }
 
 /* Custom Hero styles */
@@ -64,7 +68,7 @@
   color: #000;
 }
 
-/* Increase Hero Image Size */
+/* Increase Hero Image Size 
 @media (min-width: 960px) {
   .VPHero .image-container {
     max-width: 500px !important;
@@ -80,4 +84,4 @@
 .VPHero .image-container {
   max-width: 300px;
   margin: 0 auto;
-}
+} */

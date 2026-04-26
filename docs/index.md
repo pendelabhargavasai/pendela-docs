@@ -2,12 +2,12 @@
 layout: home
 
 hero:
-  name: "Pendela HomeLabs Docs"
+  name: "Pendela HomeLab Docs"
   text: "This site contains notes, links, and example files and referenced video links."
   tagline: Work in progress — expect the layout to evolve over time.
   image:
-    src: /images/logos/logo-1.jpg
-    alt: Pendela HomeLabs Logo
+    src: /images/logos/logo-2.png
+    alt: Pendela HomeLab Logo
   actions:
     - theme: brand
       text: Get Started
@@ -23,8 +23,6 @@ features:
   - icon: 🔍
     title: Full-text Search
     details: Instantly find what you need with built-in local search across all pages.
----
-
 ---
 
 # Articles
