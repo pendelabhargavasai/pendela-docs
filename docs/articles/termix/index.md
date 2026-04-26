@@ -52,4 +52,4 @@ docker compose up -d
 
 - [Termix Website](https://termix.site/)
 
-<iframe src="/istio-blog/istio-blog-post.html" width="100%" height="1200px" frameborder="0"></iframe>
+<iframe src="/istio-blog/istio-blog-post.html" width="150%" height="1200px" frameborder="0"></iframe>
