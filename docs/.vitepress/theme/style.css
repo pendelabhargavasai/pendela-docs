@@ -68,21 +68,21 @@
   color: #000;
 }
 
-/* --- Layout Adjustments --- */
+/* --- Layout Adjustments --- 
 :root {
-  /* Decrease Sidebar Width (default is 272px) */
+  // Decrease Sidebar Width (default is 272px)
   --vp-sidebar-width: 200px;
-}
+}*/
 
-/* Increase Main Document Width (default is ~680px for reading) */
+/* Increase Main Document Width (default is ~680px for reading)
 .VPDoc .container,
 .VPDoc .content,
 .vp-doc {
   max-width: 1000px !important;
-}
+}*/
 
-/* Ensure the iframe fills the new wider space completely */
+/* Ensure the iframe fills the new wider space completely
 .vp-doc iframe {
   width: 100% !important;
   border-radius: 8px;
-}
+} */
