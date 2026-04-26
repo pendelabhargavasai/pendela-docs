@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "Pendela HomeLab Docs"
-  text: "This site contains notes, links, and example files and referenced video links."
-  tagline: Work in progress — expect the layout to evolve over time.
+  text: "This site contains notes, links, example files and referenced video links"
+  tagline: Work in progress, expect the layout to evolve over time.
   image:
     light: /images/logos/logo-3.jpg
     dark: /images/logos/logo-1.jpg
