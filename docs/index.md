@@ -5,6 +5,9 @@ hero:
   name: "Pendela HomeLabs Docs"
   text: "This site contains notes, links, and example files and referenced video links."
   tagline: Work in progress — expect the layout to evolve over time.
+  image:
+    src: /images/logos/logo-1.jpg
+    alt: Pendela HomeLabs Logo
   actions:
     - theme: brand
       text: Get Started
