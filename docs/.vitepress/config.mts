@@ -26,9 +26,11 @@ export default defineConfig({
     sidebar: {
       "/articles/": [
         {
-          text: 'Articles',
+          //text: 'Articles',
           items: [
-            { text: 'Getting Started', link: '/articles/getting-started/' }
+            { text: 'Getting Started', link: '/articles/getting-started/' },
+            { text: 'Termix', link: '/articles/termix/' },
+            { text: 'LinkStack', link: '/articles/linkstack/' }
             // Add new articles here:
             // { text: "Example header", link: "/articles/example-name/" }
           ]

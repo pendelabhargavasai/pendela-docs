@@ -36,7 +36,7 @@ You can copy this exactly.
 ---
 
 ```md
-#  45Homelab Article Creation Workflow (Generic & Scalable)
+#  Article Creation Workflow (Generic & Scalable)
 
 This document defines the official process for creating new documentation pages and downloadable resources.
 
