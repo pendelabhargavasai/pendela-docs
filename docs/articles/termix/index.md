@@ -51,3 +51,5 @@ docker compose up -d
 - [Termix GitHub](https://github.com/Termix-SSH/Termix)
 
 - [Termix Website](https://termix.site/)
+
+<iframe src="/istio-blog/istio-blog-post.html" width="100%" height="1200px" frameborder="0"></iframe>
