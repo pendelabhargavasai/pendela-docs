@@ -1,22 +1,15 @@
 # Termix
 
----
-
 ## What this page contains
 
 Notes, commands, and downloadable example files used in the **Termix** video.
 
----
-
 ## Notes / Walkthrough
 
----
 
-### Step 1 — Docker Compose
+### Docker Compose
 
 Below is a basic docker-compose.yaml to bring termix up.
-
----
 
 ## Configuration Example
 
@@ -38,8 +31,6 @@ volumes:
     driver: local
 ```
 
----
-
 ## Commands
 
 ```bash
@@ -53,10 +44,10 @@ docker compose up -d
 
 ## Reference YouTube Video
 
-- [45Homelab Termix Video](https://www.youtube.com/watch?v=Jw6vh2eOomo)
+[45Homelab Termix Video](https://www.youtube.com/watch?v=Jw6vh2eOomo)
 
 ## References
 
-[Termix GitHub](https://github.com/Termix-SSH/Termix)
+- [Termix GitHub](https://github.com/Termix-SSH/Termix)
 
-[Termix Website](https://termix.site/)
+- [Termix Website](https://termix.site/)

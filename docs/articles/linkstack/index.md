@@ -60,8 +60,8 @@ docker compose up -d
 
 ## References
 
-[LinkStack GitHub](https://github.com/LinkStackOrg/LinkStack)
+- [LinkStack GitHub](https://github.com/LinkStackOrg/LinkStack)
 
-[LinkStack Website](https://linkstack.org/)
+- [LinkStack Website](https://linkstack.org/)
 
-[LinkStack Documentation](https://docs.linkstack.org/)
+- [LinkStack Documentation](https://docs.linkstack.org/)
