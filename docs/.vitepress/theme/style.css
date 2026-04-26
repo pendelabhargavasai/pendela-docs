@@ -1,0 +1,64 @@
+/* Custom properties for VitePress to match the logo vibes */
+:root {
+  /* Vibrant Docker/K8s Blue */
+  --vp-c-brand-1: #0ea5e9;
+  --vp-c-brand-2: #0284c7;
+  --vp-c-brand-3: #0369a1;
+  --vp-c-brand-soft: rgba(14, 165, 233, 0.14);
+
+  /* Warm Orange Accent */
+  --vp-c-warning-1: #f97316;
+  --vp-c-warning-2: #ea580c;
+  --vp-c-warning-3: #c2410c;
+}
+
+.dark {
+  /* Brighter blues for dark mode */
+  --vp-c-brand-1: #38bdf8;
+  --vp-c-brand-2: #7dd3fc;
+  --vp-c-brand-3: #bae6fd;
+  --vp-c-brand-soft: rgba(56, 189, 248, 0.16);
+
+  /* Warm Orange Accent */
+  --vp-c-warning-1: #fb923c;
+  --vp-c-warning-2: #fdba74;
+  --vp-c-warning-3: #fed7aa;
+  
+  /* Darker techy background */
+  --vp-c-bg: #111827;
+  --vp-c-bg-alt: #1f2937;
+  --vp-c-bg-elv: #374151;
+  --vp-c-bg-soft: #1f2937;
+}
+
+/* Custom Hero styles */
+.VPHero .name {
+  color: transparent !important;
+  background: linear-gradient(120deg, var(--vp-c-brand-1) 30%, var(--vp-c-warning-1));
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+/* Custom button style */
+.VPButton.brand {
+  background-color: var(--vp-c-brand-1);
+  border-color: var(--vp-c-brand-1);
+  color: #fff;
+  transition: all 0.2s ease;
+}
+
+.VPButton.brand:hover {
+  background-color: var(--vp-c-brand-2);
+  border-color: var(--vp-c-brand-2);
+}
+
+.VPButton.alt {
+  border-color: var(--vp-c-warning-1);
+  color: var(--vp-c-warning-1);
+  background-color: transparent;
+}
+
+.VPButton.alt:hover {
+  background-color: var(--vp-c-warning-1);
+  color: #fff;
+}

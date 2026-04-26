@@ -17,9 +17,6 @@ features:
   - icon: 📖
     title: Clear Documentation
     details: Well-structured guides and references to help you get up and running quickly.
-  - icon: 🚀
-    title: Fast & Lightweight
-    details: Built with VitePress for blazing fast page loads and a great reading experience.
   - icon: 🔍
     title: Full-text Search
     details: Instantly find what you need with built-in local search across all pages.
