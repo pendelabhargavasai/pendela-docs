@@ -15,7 +15,7 @@ export default defineConfig({
 
   themeConfig: {
     siteTitle: "Pendela HomeLab Docs",
-    logo: '/images/logos/logo-1.jpg',
+    logo: '/images/logos/logo-2.png',
 
     nav: [
       { text: 'Home', link: '/' },
