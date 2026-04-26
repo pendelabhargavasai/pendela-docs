@@ -63,3 +63,21 @@
   background-color: var(--vp-c-warning-1);
   color: #000;
 }
+
+/* Increase Hero Image Size */
+@media (min-width: 960px) {
+  .VPHero .image-container {
+    max-width: 500px !important;
+    width: 500px !important;
+    height: auto !important;
+  }
+  .VPHero .image-src {
+    max-width: 500px !important;
+    width: 100% !important;
+  }
+}
+
+.VPHero .image-container {
+  max-width: 300px;
+  margin: 0 auto;
+}
