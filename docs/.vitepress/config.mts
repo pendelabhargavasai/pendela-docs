@@ -31,7 +31,7 @@ export default defineConfig({
         },
         {
           text: 'Articles',
-          collapsed: false,
+          collapsed: true,
           items: [
             { text: 'Termix', link: '/articles/termix/' },
             { text: 'LinkStack', link: '/articles/linkstack/' }
@@ -39,7 +39,7 @@ export default defineConfig({
         },
         {
           text: 'Blogs',
-          collapsed: false,
+          collapsed: true,
           items: [
             { text: 'NGINX to Istio', link: '/articles/blogs/istio/' }
           ]
