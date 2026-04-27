@@ -26,5 +26,10 @@ features:
     details: Instantly find what you need with built-in local search across all pages.
 ---
 
-Latest Article: [LinkStack](/articles/linkstack/)
-Latest Blog: [NGINX → Istio](/articles/blogs/istio/)
+Latest Article:
+
+- [LinkStack](/articles/linkstack/)
+
+Latest Blog: 
+
+- [k3s on Proxmox](/articles/blogs/proxmox/)

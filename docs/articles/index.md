@@ -7,5 +7,6 @@
 # Blog Posts
 
 - [NGINX → Istio](/articles/blogs/istio/)
+- [k3s on Proxmox](/articles/blogs/proxmox/)
 
 

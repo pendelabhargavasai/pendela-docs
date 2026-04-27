@@ -41,7 +41,8 @@ export default defineConfig({
           text: 'Blogs',
           collapsed: true,
           items: [
-            { text: 'NGINX to Istio', link: '/articles/blogs/istio/' }
+            { text: 'NGINX to Istio', link: '/articles/blogs/istio/' },
+            { text: 'k3s on Proxmox', link: '/articles/blogs/proxmox/' }
           ]
         }
       ]
