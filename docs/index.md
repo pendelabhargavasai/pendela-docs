@@ -28,7 +28,7 @@ features:
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 2rem;">
 
-<div style="padding: 1.5rem; background-color: var(--vp-c-bg-soft); border-radius: 12px; border: 1px solid var(--vp-c-border);">
+<div>
 
 ### Latest Article
 
@@ -36,7 +36,7 @@ features:
 
 </div>
 
-<div style="padding: 1.5rem; background-color: var(--vp-c-bg-soft); border-radius: 12px; border: 1px solid var(--vp-c-border);">
+<div>
 
 ### Latest Blog
 

@@ -4,7 +4,7 @@
 
 *A practical guide covering installation, troubleshooting, and the real story of getting k3s to run inside an LXC container*
 
-  
+![Intro](https://gitea.pendela.in/bhargavasai/devops-png-svg/raw/branch/main/k3s/lxc-container/Gemini_Generated_Image_l9i6fdl9i6fdl9i6.png)
 
 ---
 
@@ -12,7 +12,6 @@
 
 ## Introduction
 
----
 
 
 Kubernetes is powerful but notorious for being heavy. k3s, the lightweight Kubernetes distribution from Rancher, fixes that. It strips out legacy APIs, bundles containerd, and ships as a single binary under 100MB. It is perfect for homelabs, edge deployments, and resource-constrained environments.
@@ -24,7 +23,7 @@ This is the first of a series of posts describing how to bootstrap a Kubernetes 
 
 ## Basically why do I need a Kubernetes cluster ?
 
----
+
 
 
 At work, I’ve used large K8S clusters in production environments (AWS), clusters are abstracted away behind platform teams, which is efficient for delivery but leaves gaps in understanding how scheduling, networking, storage, and controllers really behave under the hood. Setting up your own cluster gives you that missing layer of operational intuition: you get to break things, debug them, and understand why they broke. For someone already running a fairly complex home setup, using Kubernetes as a unifying platform to experiment, whether or not you fully migrate all your Docker Compose stacks—is less about necessity and more about building practical, transferable expertise.
@@ -56,7 +55,7 @@ The VM setup was straightforward. The LXC setup was not. This post focuses heavi
 
 ## Part 1: Setting Up the Master Node
 
----
+
 
   
 
@@ -149,7 +148,6 @@ Keep this value — it is used in every worker join command.
 
 ## Part 2: Adding the VM Worker (worker1)
 
----
 
   
 
@@ -257,9 +255,6 @@ After renaming and cleaning up the stale secret, the worker joined successfully.
   
 
 ## Part 3: The LXC Worker — The Real Story
-
----
-
   
 
   
@@ -595,7 +590,6 @@ journalctl  -u  k3s-agent  -f
 
 ## Part 4: LXC as a k3s Worker — Features and Limitations
 
----
 
   
 
@@ -663,8 +657,6 @@ These modules need to be loaded on the Proxmox host, not inside the container.
   
 
 ## Conclusion
-
----
 
   
 
