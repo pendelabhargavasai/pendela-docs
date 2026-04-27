@@ -41,7 +41,7 @@ export default defineConfig({
           text: 'Blogs',
           collapsed: false,
           items: [
-            { text: 'NGINX to Istio', link: '/articles/blogs/k8s/nginx-to-istio/' }
+            { text: 'NGINX to Istio', link: '/articles/blogs/istio/' }
           ]
         }
       ]

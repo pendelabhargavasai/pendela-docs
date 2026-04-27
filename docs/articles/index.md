@@ -6,7 +6,7 @@
 
 ## Blog Posts
 
-- [NGINX → Istio](/articles/blogs/k8s/nginx-to-istio/)
+- [NGINX → Istio](/articles/blogs/istio/)
 
 ## All Articles
 

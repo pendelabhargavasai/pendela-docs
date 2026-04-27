@@ -34,4 +34,4 @@ features:
 
 # Blog Posts
 
-- [NGINX to Istio](/articles/blogs/k8s/nginx-to-istio/)
+- [NGINX → Istio](/articles/blogs/istio/)
