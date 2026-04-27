@@ -26,10 +26,22 @@ features:
     details: Instantly find what you need with built-in local search across all pages.
 ---
 
-Latest Article:
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 2rem;">
+
+<div style="padding: 1.5rem; background-color: var(--vp-c-bg-soft); border-radius: 12px; border: 1px solid var(--vp-c-border);">
+
+### Latest Article
 
 - [LinkStack](/articles/linkstack/)
 
-Latest Blog: 
+</div>
+
+<div style="padding: 1.5rem; background-color: var(--vp-c-bg-soft); border-radius: 12px; border: 1px solid var(--vp-c-border);">
+
+### Latest Blog
 
 - [k3s on Proxmox](/articles/blogs/proxmox/)
+
+</div>
+
+</div>
