@@ -26,13 +26,22 @@ export default defineConfig({
     sidebar: {
       "/articles/": [
         {
-          //text: 'Articles',
+          text: 'Getting Started',
+          link: '/articles/getting-started/'
+        },
+        {
+          text: 'Articles',
+          collapsed: false,
           items: [
-            { text: 'Getting Started', link: '/articles/getting-started/' },
             { text: 'Termix', link: '/articles/termix/' },
             { text: 'LinkStack', link: '/articles/linkstack/' }
-            // Add new articles here:
-            // { text: "Example header", link: "/articles/example-name/" }
+          ]
+        },
+        {
+          text: 'Blogs',
+          collapsed: false,
+          items: [
+            { text: 'NGINX to Istio', link: '/articles/blogs/k8s/nginx-to-istio/' }
           ]
         }
       ]

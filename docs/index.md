@@ -28,7 +28,10 @@ features:
 
 ---
 
-# Articles
+# Latest
 
-- [Termix](/articles/termix/)
 - [LinkStack](/articles/linkstack/)
+
+# Blog Posts
+
+- [NGINX to Istio](/articles/blogs/k8s/nginx-to-istio/)
