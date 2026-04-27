@@ -1,10 +1,12 @@
 # Articles
 
-Companion guides for videos — commands, configs, and links.
-
-## Latest
+## Latest Article
 
 - [LinkStack](/articles/linkstack/)
+
+## Blog Posts
+
+- [NGINX → Istio](/articles/blogs/k8s/nginx-to-istio/)
 
 ## All Articles
 
