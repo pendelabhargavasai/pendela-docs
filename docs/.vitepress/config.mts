@@ -49,7 +49,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: 'A smile is a curve that sets everything straight',
+      message: 'A smile is a curve that sets everything straight 🌻',
       copyright: '2026 © pendela.in'
     },
 
