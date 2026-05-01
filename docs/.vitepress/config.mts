@@ -42,7 +42,17 @@ export default defineConfig({
           collapsed: true,
           items: [
             { text: 'NGINX to Istio', link: '/articles/blogs/istio/' },
-            { text: 'k3s on Proxmox', link: '/articles/blogs/proxmox/' }
+            { text: 'k3s on Proxmox', link: '/articles/blogs/proxmox/' },
+            { text: 'Supply Chain Attacks', link: '/articles/blogs/IT-attacks/' },
+          ]
+        },
+        {
+          text: 'Pages',
+          collapsed: true,
+          items: [
+            { text: 'Kubernetes Ecosystem', link: 'https://ke.pendela.in/' },
+            { text: 'Kubernetes Distributions', link: 'https://kc.pendela.in/' },
+            { text: 'Supply Chain Attacks', link: 'https://sc.pendela.in/' },
           ]
         }
       ]
