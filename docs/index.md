@@ -30,7 +30,7 @@ features:
 
 <div>
 
-### Article
+### Latest Article
 
 - [LinkStack](/articles/linkstack/)
 
@@ -38,7 +38,7 @@ features:
 
 <div>
 
-### Blog
+### Latest Blog
 
 - [k3s on Proxmox](/articles/blogs/proxmox/)
 
@@ -46,7 +46,7 @@ features:
 
 <div>
 
-### Pages
+### Latest Page
 
 - [k8s ToolKit](https://k8skit.pendela.in/)
 
