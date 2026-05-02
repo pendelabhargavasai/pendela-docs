@@ -65,7 +65,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: 'Made with ❤️ in India 🇮🇳🛕 by P.Bhargava Sai',
+      message: 'Made with ❤️ in India🛕 by `P.Bhargava Sai`',
       copyright: '2026 © pendela.in'
     },
 
