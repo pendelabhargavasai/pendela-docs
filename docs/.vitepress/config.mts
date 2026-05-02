@@ -65,7 +65,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: 'A smile is a curve that sets everything straight 🌻',
+      message: 'Made with ❤️ in India 🇮🇳🛕 by P.Bhargava Sai',
       copyright: '2026 © pendela.in'
     },
 
