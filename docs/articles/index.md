@@ -1,6 +1,5 @@
 # Articles
 
-- [FAQ](/articles/faq)
 - [Termix](/articles/termix/)
 - [LinkStack](/articles/linkstack/)
 
