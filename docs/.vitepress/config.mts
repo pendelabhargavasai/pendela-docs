@@ -39,7 +39,7 @@ export default defineConfig({
           collapsed: true,
           items: [
             { text: 'Termix', link: '/articles/termix/' },
-            { text: 'LinkStack', link: '/articles/linkstack/' }
+            { text: 'LinkStack', link: '/articles/linkstack/' },
           ]
         },
         {
@@ -49,7 +49,7 @@ export default defineConfig({
             { text: 'NGINX to Istio', link: '/articles/blogs/istio/' },
             { text: 'k3s on Proxmox', link: '/articles/blogs/proxmox/' },
             { text: 'Supply Chain Attacks', link: '/articles/blogs/IT-attacks/' },
-            { text: 'Kubernetes CNI', link: '/articles/blogs/cni/' }
+            { text: 'Kubernetes CNI', link: '/articles/blogs/cni/' },
           ]
         },
         {

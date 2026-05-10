@@ -984,6 +984,7 @@ kubectl uncordon <node>
 - [Cilium Network Performance](https://cilium.io/blog/2021/05/11/cni-benchmark/)
 - [Calico on K3s — Official Docs](https://docs.tigera.io/calico/latest/getting-started/kubernetes/k3s/)
 - [Flannel GitHub](https://github.com/flannel-io/flannel)
+- [Flannel Networking](https://mvallim.github.io/kubernetes-under-the-hood/documentation/kube-flannel.html)
 - [Antrea GitHub](https://github.com/antrea-io/antrea)
 - [AWS VPC CNI GitHub](https://github.com/aws/amazon-vpc-cni-k8s)
 - [Azure CNI Overlay Docs](https://learn.microsoft.com/en-us/azure/aks/azure-cni-overlay)
