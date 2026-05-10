@@ -49,6 +49,7 @@ export default defineConfig({
             { text: 'NGINX to Istio', link: '/articles/blogs/istio/' },
             { text: 'k3s on Proxmox', link: '/articles/blogs/proxmox/' },
             { text: 'Supply Chain Attacks', link: '/articles/blogs/IT-attacks/' },
+            { text: 'Kubernetes CNI', link: '/articles/blogs/cni/' }
           ]
         },
         {

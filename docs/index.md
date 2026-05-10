@@ -40,7 +40,7 @@ features:
 
 ### Latest Blog
 
-- [k3s on Proxmox](/articles/blogs/proxmox/)
+- [Kubernetes CNI](/articles/blogs/cni/)
 
 </div>
 
