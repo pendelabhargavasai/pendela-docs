@@ -60,6 +60,7 @@ export default defineConfig({
             { text: 'Kubernetes Distributions', link: 'https://kc.pendela.in/' },
             { text: 'Supply Chain Attacks', link: 'https://sc.pendela.in/' },
             { text: 'K8s ToolKit', link: 'https://k8skit.pendela.in/' },
+            { text: 'Kubernetes CNI', link: 'https://cni.pendela.in/' },
           ]
         }
       ]
