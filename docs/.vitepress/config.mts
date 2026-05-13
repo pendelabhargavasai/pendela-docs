@@ -50,6 +50,7 @@ export default defineConfig({
             { text: 'k3s on Proxmox', link: '/articles/blogs/proxmox/' },
             { text: 'Supply Chain Attacks', link: '/articles/blogs/IT-attacks/' },
             { text: 'Kubernetes CNI', link: '/articles/blogs/cni/' },
+            { text: 'Kubernetes LoadBalancers', link: '/articles/blogs/loadbalancer/' },
           ]
         },
         {
@@ -61,6 +62,7 @@ export default defineConfig({
             { text: 'Supply Chain Attacks', link: 'https://sc.pendela.in/' },
             { text: 'K8s ToolKit', link: 'https://k8skit.pendela.in/' },
             { text: 'Kubernetes CNI', link: 'https://cni.pendela.in/' },
+            { text: 'Kubernetes LoadBalancers', link: 'https://lb.pendela.in/' },
           ]
         }
       ]

@@ -19,7 +19,7 @@ hero:
 
 features:
   - icon: 📖
-    title: Clear Documentation
+    title: Clear Documentation  
     details: Well-structured guides and references to help you get up and running quickly.
   - icon: 🔍
     title: Full-text Search
@@ -40,7 +40,7 @@ features:
 
 ### Latest Blog
 
-- [Kubernetes CNI](/articles/blogs/cni/)
+- [Kubernetes LoadBalancers](/articles/blogs/loadbalancer/)
 
 </div>
 
